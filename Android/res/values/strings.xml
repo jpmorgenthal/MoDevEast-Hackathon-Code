@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FriendsWPlansActivity!</string>
+    <string name="app_name">FriendsWPlans</string>
+    <string name="createevent">Create Event</string>
+    <string name="eventnamelabel">Enter Event Name</string>
+    <string name="findevent">Find Event</string>
+
+</resources>
